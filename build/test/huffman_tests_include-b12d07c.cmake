@@ -1,5 +1,0 @@
-if(EXISTS "/Users/dev.daniil.bakushkin/Desktop/HuffmanArchiver/build/test/huffman_tests_tests-b12d07c.cmake")
-  include("/Users/dev.daniil.bakushkin/Desktop/HuffmanArchiver/build/test/huffman_tests_tests-b12d07c.cmake")
-else()
-  add_test(huffman_tests_NOT_BUILT-b12d07c huffman_tests_NOT_BUILT-b12d07c)
-endif()
