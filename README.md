@@ -1,9 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/6eJown1x)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12586712&assignment_repo_type=AssignmentRepo)
-# Домашнее задание 5
-
-Напишите программу, выполняющую сжатие двухпроходным [алгоритмом Хаффмана](https://en.wikipedia.org/wiki/Huffman_coding). Покройте ваш код юнит-тестами.
-
 ## Параметры командной строки
 
 Программа должна принимать в качестве аргументов ключ `-c` или `-d` для сжатия или распаковки соответственно, входной файл и выходной файл.
